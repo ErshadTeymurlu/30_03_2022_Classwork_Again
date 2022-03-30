@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\30_03_2022_Classwork_Again\bin\Debug\30_03_2022_Classwork_Again.exe.config
+C:\Users\HP\source\repos\30_03_2022_Classwork_Again\bin\Debug\30_03_2022_Classwork_Again.exe
+C:\Users\HP\source\repos\30_03_2022_Classwork_Again\bin\Debug\30_03_2022_Classwork_Again.pdb
+C:\Users\HP\source\repos\30_03_2022_Classwork_Again\obj\Debug\30_03_2022_Classwork_Again.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\30_03_2022_Classwork_Again\obj\Debug\30_03_2022_Classwork_Again.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\30_03_2022_Classwork_Again\obj\Debug\30_03_2022_Classwork_Again.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\30_03_2022_Classwork_Again\obj\Debug\30_03_2022_Classwork_Again.exe
+C:\Users\HP\source\repos\30_03_2022_Classwork_Again\obj\Debug\30_03_2022_Classwork_Again.pdb
